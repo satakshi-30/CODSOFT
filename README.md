@@ -18,4 +18,5 @@ Can show the current time.
 Ends gracefully when the user types "bye".
 
 #MY THIRD TASK IS SIMPLE RECOMMENDATION SYSTEM 
+
 "This project is a movie recommendation system that suggests movies to users. It uses content-based filtering to recommend movies with similar genres to a selected movie. It also uses collaborative filtering to suggest movies based on ratings from users with similar tastes. Python libraries like pandas and scikit-learn are used to calculate similarities and generate recommendations. Users can get personalized suggestions either by choosing a movie or based on their user profile. Overall, it helps users discover movies they are likely to enjoy."
